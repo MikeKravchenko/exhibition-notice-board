@@ -1,5 +1,7 @@
 ## Exhibition Job board!
 
+You can do both: post and apply for jobs!
+
 ### To run it localy:
 
 1. Build the images and run the containers:

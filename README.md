@@ -11,7 +11,7 @@
 
     Test it out on localhost:8000.
 
-### Let's Encrypt Production
+### Let's make it in production via EC2 and 
 
 1. Rename *.env.prod-sample* to *.env.prod*, *.env.prod.db-sample* to *.env.prod.db*, and *.env.prod.proxy-companion-sample* to *.env.prod.proxy-companion*. Update the environment variables.
 1. Build the images and run the containers:
